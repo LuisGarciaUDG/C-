@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1423030991 source:c:\users\luis\dropbox\comparti2\inco\programación\suma\main.cpp
+	<iostream>
+	<string>
+	<windows.h>
+
